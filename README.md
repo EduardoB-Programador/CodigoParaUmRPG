@@ -1,2 +1,7 @@
-# CodigoParaUmRPG
- É só um arquivo que era pra ser simples de fazer baseado num sistema de RPG que um amigo fez, esse sistema por sua vez era baseado no jogo Warframe
+# Português
+
+É só um arquivo que era pra ser simples de fazer baseado num sistema de RPG que um amigo fez, esse sistema por sua vez era baseado no jogo Warframe, na reta final enquanto eu tentava terminar e corrigir alguns erros eu comecei a ficar impaciente e eu sei que em algum lugar eu chamei um método usando o nome de uma classe, coisa que não foi muito inteligente mas eu queria terminar logo, e pra falar a verdade eu nem quero mais resolver esse problema porque esse arquivo é uma bagunça, se um dia eu for fazer um outro arquivo ou repositório relacionado a jogar um RPG eu com certeza vou ter mais atenção em fazer em uma arquitetura mais bem planejada, tipo MVC que eu havia feito com o repositório **college-studies**, mas no momento não quero mexer nisso, além de disso, eu sei que eu deixei de fazer algumas mudanças em alguns métodos, mas eu vou deixar como está.
+
+# English
+
+It's a single file that was intended to be simple to make, it was based on a RPG system that a friend of my elaborated, which system has also come from the game Warframe. At the finals of this project while i was trying to finish and fix some errors I got impatient and called a method using the class' name somewhere, which wasn't smart but I just wanted it to end at that point, and tbh I don't even want to fix anything because this whole file is a mess, I one day I create another file or repository related to playing a RPG game I'll for sure pay more atention on using some architecture or structure, just like the MVC used in my **college-studies** repo, besides that, I know I should make some changes in some methods, but I'll leave it just as it is.
